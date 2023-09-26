@@ -1,7 +1,18 @@
+适合在arm64设备上用于构建gcc工具链的一键脚本,比如在手机chroot/proot/lxc环境中
 
 
+使用方法
+克隆此项目
+git clone https://github.com/tomxi1997/gcc-build.git
+
+cd gcc-build 
+
+chmod +x *.sh
+
+./build.sh
 
 
+-~~~分割线 ～～～～~~
 
 
 
