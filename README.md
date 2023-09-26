@@ -1,11 +1,11 @@
 适合在arm64设备上用于构建gcc工具链的一键脚本,比如在手机chroot/proot/lxc环境中
 
 
-使用方法
-克隆此项目
-git clone https://github.com/tomxi1997/gcc-build.git
+使用方法如下
 
-cd gcc-build 
+git clone https://github.com/tomxi1997/Pdx-gcc-for-arm64.git
+
+cd Pdx-gcc-for-arm64
 
 chmod +x *.sh
 
