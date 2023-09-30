@@ -119,6 +119,7 @@ build_gcc() {
     make -j8 install-target-libgcc
   
   echo "Built GCC!"
+  rm $PREFIX/bin/aarch64-linux-gnu-aarch64-linux-gnu-*
   cd ..
 }
 
